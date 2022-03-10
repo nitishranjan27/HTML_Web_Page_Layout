@@ -1,7 +1,7 @@
 .headerContainer{
     display: flex;
     flex-flow: column wrap;
-    align-content: center;
+    align-content: center; 
     background: tomato;
     font-weight: bold;
     padding: 2opx;
